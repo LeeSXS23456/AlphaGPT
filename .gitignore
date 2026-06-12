@@ -1,0 +1,21 @@
+# ========== data ==========
+data/
+*.parquet
+*.json
+*.csv
+
+# ========== logs ==========
+logs/
+
+# ========== runtime ==========
+__pycache__/
+*.pyc
+
+# ========== models ==========
+models/
+checkpoints/
+
+# ========== system ==========
+.DS_Store
+.vscode/
+
